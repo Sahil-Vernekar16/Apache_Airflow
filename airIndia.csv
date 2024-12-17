@@ -1,0 +1,6 @@
+PlaneID,Date,Source,Destination,Fare,Currency
+AIR101,2024-01-01,Delhi,Mumbai,5500,INR
+AIR102,2024-01-02,Chennai,Bengaluru,6300,USD
+AIR103,2024-01-03,Hyderabad,Kolkata,7200,EUR
+AIR104,2024-01-04,Pune,Delhi,4800,INR
+AIR105,2024-01-05,Mumbai,Chennai,6000,GBP
