@@ -1,0 +1,45 @@
+{
+    "data": [
+      {
+        "PlaneID": "VIS301",
+        "Date": "2024-03-01",
+        "Source": "Delhi",
+        "Destination": "Chennai",
+        "Fare": 6200,
+        "Currency": "INR"
+      },
+      {
+        "PlaneID": "VIS302",
+        "Date": "2024-03-02",
+        "Source": "Bengaluru",
+        "Destination": "Kolkata",
+        "Fare": 7100,
+        "Currency": "USD"
+      },
+      {
+        "PlaneID": "VIS303",
+        "Date": "2024-03-03",
+        "Source": "Hyderabad",
+        "Destination": "Mumbai",
+        "Fare": 5800,
+        "Currency": "EUR"
+      },
+      {
+        "PlaneID": "VIS304",
+        "Date": "2024-03-04",
+        "Source": "Pune",
+        "Destination": "Bengaluru",
+        "Fare": 4900,
+        "Currency": "GBP"
+      },
+      {
+        "PlaneID": "VIS305",
+        "Date": "2024-03-05",
+        "Source": "Mumbai",
+        "Destination": "Delhi",
+        "Fare": 6700,
+        "Currency": "INR"
+      }
+    ]
+  }
+  
